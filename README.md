@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Simple App to create patterns using rectangles using React Js
 
 [Live Demo](https://feeling-creative.web.app/).
 
